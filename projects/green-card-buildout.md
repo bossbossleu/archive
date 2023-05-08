@@ -144,7 +144,7 @@ The plot shows the satellite imagery of the Florida EB-5 project, sorted by EB-5
 
 For the final touch of the project, it is important to document the actual site of the project from the street view that is not able to capture in detail by available data and satellite imagery. Here are the selected project photographs for New York and Florida EB-5 projects. 
 
-![TSX Time Squre](/img/eb5/tsx.jpg.jpg)
+![TSX Time Squre](/img/eb5/tsx.jpg)
 
 *The Times Square EDITION (left) and TSX Bradway (right) in Time Square were financed by U.S. Immigration Fund - NY.*
 
