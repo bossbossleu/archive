@@ -9,7 +9,7 @@ image: /img/eb5/the-spiral.jpg
 
 ![](/img/eb5/the-spiral.jpg)
 
-*The image shows The Spiral (front) and 30 Hudson Yard (back), both were funded by EB-5 capital.*
+*The image shows The Spiral (front) and 30 Hudson Yard (back), both funded by EB-5 capital.*
 
 The news headline "Citizenship for Sale" has put the EB-5 Immigration Investor Program in the spotlight.[^1] The connotation of the caption is not only unjustified for the program’s outlook but puts new immigrants in a reproached position. In the statement on signing the Immigration Act of 1990, President George H. W. Bush wrote, *"S. 358 will promote the initiation of new business in rural areas and the investment of foreign capital in our economy."*[^2] His message was simple and clear about the new Immigration Investor Program: fund underdeveloped areas with foreign investment.
 
